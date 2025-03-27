@@ -173,6 +173,10 @@ footer a:hover {
     width: 350px;
     padding: 0px 30px 0px 0px;
 }
+
+.under-text {
+    font-style: italic;
+}
 @media screen and (min-width: 860px) {
     .project-item {
         display: flow-root;
